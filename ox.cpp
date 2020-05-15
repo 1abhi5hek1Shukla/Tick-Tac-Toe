@@ -144,6 +144,8 @@ int main(int argc, char const *argv[])
 	cout<<"press 1 --- for computerPlayer \n";
 	cin>>p2;
 
+
+	//Select The Game you want to play
 	// run_game(computerPlayer,computerPlayer);
 	// run_game(computerPlayer,humanPlayer);
 	// run_game(humanPlayer,computerPlayer);
